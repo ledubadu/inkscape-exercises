@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<keys
+   name="User Shortcuts">
+  <bind
+     key="A"
+     action="ToolSelector"
+     display="true" />
+  <bind
+     key="a"
+     action="ToolSelector"
+     display="true" />
+  <bind
+     key="S"
+     action="ToolNode"
+     display="true" />
+  <bind
+     key="s"
+     action="ToolNode"
+     display="true" />
+  <bind
+     key="z"
+     action="ToolDropper"
+     display="true" />
+  <bind
+     key="Z"
+     action="ToolDropper"
+     display="true" />
+  <bind
+     key="b"
+     action="SelectionUnion"
+     display="true" />
+  <bind
+     key="B"
+     action="SelectionUnion" />
+  <bind
+     key="n"
+     action="SelectionDiff" />
+  <bind
+     key="N"
+     action="SelectionDiff" />
+  <bind
+     key="m"
+     action="SelectionIntersect" />
+  <bind
+     key="M"
+     action="SelectionIntersect" />
+  <bind
+     key="c"
+     modifiers="Shift"
+     action="SelectionRaise"
+     display="true" />
+  <bind
+     key="C"
+     modifiers="Shift"
+     action="SelectionRaise"
+     display="true" />
+  <bind
+     key="x"
+     modifiers="Shift"
+     action="SelectionLower"
+     display="true" />
+  <bind
+     key="X"
+     modifiers="Shift"
+     action="SelectionLower"
+     display="true" />
+  <bind
+     key="b"
+     modifiers="Shift"
+     action="SelectionToFront"
+     display="true" />
+  <bind
+     key="B"
+     modifiers="Shift"
+     action="SelectionToFront"
+     display="true" />
+  <bind
+     key="z"
+     modifiers="Shift"
+     action="SelectionToBack"
+     display="true" />
+  <bind
+     key="Z"
+     modifiers="Shift"
+     action="SelectionToBack"
+     display="true" />
+  <bind
+     key="w"
+     action="ToolArc"
+     display="true" />
+  <bind
+     key="q"
+     modifiers="Shift"
+     action="ToolStar"
+     display="true" />
+  <bind
+     key="w"
+     modifiers="Shift"
+     action="ToolSpiral"
+     display="true" />
+  <bind
+     key="W"
+     action="ToolArc"
+     display="true" />
+  <bind
+     key="Q"
+     modifiers="Shift"
+     action="ToolStar"
+     display="true" />
+  <bind
+     key="W"
+     modifiers="Shift"
+     action="ToolSpiral"
+     display="true" />
+  <bind
+     key="d"
+     action="ToolPen"
+     display="true" />
+  <bind
+     key="D"
+     action="ToolPen" />
+  <bind
+     key="x"
+     action="EditDelete"
+     display="true" />
+  <bind
+     key="X"
+     action="EditDelete" />
+  <bind
+     key="q"
+     modifiers="Ctrl,Shift"
+     action="ToolRect"
+     display="true" />
+  <bind
+     key="Q"
+     modifiers="Ctrl,Shift"
+     action="ToolRect" />
+</keys>
