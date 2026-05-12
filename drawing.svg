@@ -145,11 +145,12 @@
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332"
        sodipodi:type="spiral" />
     <rect
-       style="fill:#800080;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.15799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#d237d2;fill-opacity:1;stroke:#75b5b5;stroke-width:1.38879125;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect831"
-       width="44.901279"
-       height="24.321527"
-       x="18.976137"
-       y="111.78223" />
+       width="47.343185"
+       height="33.177898"
+       x="25.938753"
+       y="98.892952"
+       transform="rotate(1.0423723)" />
   </g>
 </svg>
