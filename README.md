@@ -1,4 +1,6 @@
-# inkscape-exercises
+---
+title:"inkscape-exercises"
+---
 this is for inkscapes
 
 I try my best with layers to learn inkscape 
