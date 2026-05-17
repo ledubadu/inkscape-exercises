@@ -10,7 +10,7 @@ martin vda  	www.youtube.com/@MartinVDAIllustration
 
 (will add more later)
 
-the shortcuts xml uses 
+the shortcuts **ARE FOR INKSCAPE 0.92.x** xml uses 
 
 |tool name| current button | change to|ID|
 |---|---|---|---|
