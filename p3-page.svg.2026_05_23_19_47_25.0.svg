@@ -21,36 +21,46 @@
      id="defs860">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient866">
+       id="linearGradient1667">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
-         id="stop862" />
-      <stop
-         id="stop870"
-         offset="0.13730817"
-         style="stop-color:#000000;stop-opacity:0.49803922;" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0.36862745;"
-         offset="0.28670186"
-         id="stop874" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0.24705882;"
-         offset="0.40142587"
-         id="stop872" />
+         id="stop1663" />
       <stop
          style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         id="stop864" />
+         id="stop1665" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient866"
-       id="linearGradient868"
-       x1="162.15178"
-       y1="20.132442"
-       x2="162.52975"
-       y2="21.077381"
+       id="linearGradient832">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop828" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop830" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient832"
+       id="linearGradient834"
+       x1="154.21452"
+       y1="42.292137"
+       x2="123.21125"
+       y2="47.904793"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1667"
+       id="linearGradient1595"
+       x1="153.4127"
+       y1="36.412212"
+       x2="202.5903"
+       y2="40.421253"
        gradientUnits="userSpaceOnUse"
        spreadMethod="repeat" />
   </defs>
@@ -62,16 +72,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="688.24278"
-     inkscape:cy="758.01144"
+     inkscape:cx="295.38564"
+     inkscape:cy="576.58287"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="1072"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata863">
@@ -90,7 +100,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#aa0000;fill-opacity:0.89019608;stroke-width:1.5989753"
+       style="fill:#aa0000;fill-opacity:1;stroke-width:1.5989753;stroke:url(#linearGradient1595)"
        id="rect2183"
        width="44.034225"
        height="41.199406"
@@ -129,11 +139,11 @@
        x="35.113983"
        y="111.2247" />
     <rect
-       style="fill:url(#linearGradient868);fill-opacity:1;stroke:none;stroke-width:1.3887912;stroke-opacity:1"
-       id="rect860"
-       width="61.232143"
-       height="45.735119"
-       x="130.77975"
-       y="17.108631" />
+       style="fill:url(#linearGradient834);fill-opacity:1;stroke:none;stroke-width:1.3887912;stroke-opacity:1"
+       id="rect826"
+       width="78.042702"
+       height="45.970356"
+       x="119.20221"
+       y="24.652351" />
   </g>
 </svg>
